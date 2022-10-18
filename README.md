@@ -1,9 +1,3 @@
-# PROJECTS
-
-**DA&DS:**
-- **The Movies Dataset** - анализ успешности фильмов на основе данных за последние 100 лет, найдены комбинации успешных и неуспешных фильмов (жанр/страна/режиссер/актеры); итоговый проект курса "REBOOT Data Analysis" (февраль 2020, Виртуальная Школа Сбербанка)
-- **Employee Resignation** - построение модели, прогнозирующей возможность ухода сотрудника и выявление факторов, влияющих на это в наибольшей степени, проект курса "Анализ данных для менеджеров" (декабрь 2020, Виртуальная Школа Сбербанка)
-
 **Programming:**
-- FT_SERVER – использование Docker для установки полноценного веб-сервера, установлены сервисы: Wordpress, phpMyAdmin, базу данных SQL;
-- FT_PRINTF (язык С) - повторение библиотечной функции printf(), использование вариативных аргументов;
+- FT_SERVER – using Docker to set up a full web server, services installed: Wordpress, phpMyAdmin, SQL data base;
+- FT_PRINTF (С) - repeating the printf() library function, using variable arguments;
